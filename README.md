@@ -1,14 +1,14 @@
 ﻿# -CodeClause_Unit-Converter
 ﻿# -Unit Converter
-﻿# -Description
+## ﻿# -Description.
 The Unit Converter is a web application that allows users to convert various units of measurement. It is built using HTML, CSS, and JavaScript, making it accessible and easy to use on any modern web browser. This readme file provides instructions on how to use the Unit Converter and customize it to suit your needs.
 
-Features
+## ﻿# -Features
 Conversion of different units in categories like length, weight and more.
 Real-time conversion updates as you input values.
 Intuitive user interface with a clean and responsive design.
 Easy customization and extension to add new units or categories.
-How to Use
+## ﻿# -How to Use
 Clone or download the repository to your local machine.
 Open the index.html file in a web browser of your choice.
 You will see a list of unit categories on the left side of the screen.
